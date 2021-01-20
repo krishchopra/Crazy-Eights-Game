@@ -17,4 +17,4 @@ If the user decides to play the game more than once, then a point system will be
 
 **Gameplay Instructions:**
 
-In order to play this game, download all of the files in this repository (excluding this one), and then run the CrazyEights.java file through either an IDE such as Eclipse, or a Java code compiler. If you're having any issues, you could also play the game via the online IDE Repl.it [here](https://repl.it/@krishchopra8/Crazy-Eights#Main.java)! Have fun :)
+In order to play this game, download all of the files in this repository (excluding this one), and then run the CrazyEights.java file through either an IDE such as Eclipse, or a Java code compiler. If you're having any issues, you could also play the game via the online IDE, Repl.it, [here](https://repl.it/@krishchopra8/Crazy-Eights#Main.java)! Have fun :)
