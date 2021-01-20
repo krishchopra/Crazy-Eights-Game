@@ -9,7 +9,6 @@ import java.io.PrintWriter;
 /**
  * Date: December 18, 2020
  * Name: Krish Chopra
- * Teacher: Ms. Andrighetti
  * Description: Java implementation of Crazy Eights card game
  */
 
