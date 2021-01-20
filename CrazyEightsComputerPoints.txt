@@ -1,0 +1,1 @@
+// File where the computer's points from the game will be stored, so that they can be totaled in the end
