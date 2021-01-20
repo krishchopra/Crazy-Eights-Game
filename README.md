@@ -1,7 +1,7 @@
-# Crazy Eights Game
+# Crazy Eights
 Java implementation of Crazy Eights (card game)
 
-**Game rules description:**
+**Game Rules Description:**
 
 Crazy Eights is a popular card game, in which the objective is to be the first player to get rid of all your dealt cards. 
 There are many variations of this game, but in the variation that I will be implementing in Java, there will be only two players; the computer, and a human opponent. Using a shuffled virtual deck of 52 cards (no Jokers), 7 cards will be randomly dealt to each player. The rest of the deck is set aside. The top card of the deck is flipped over to form a new separate pile (the ‘discard’ pile). If the top card is an 8, then the whole deck is reshuffled and a new top card is flipped over. The human player will always get the first turn.
