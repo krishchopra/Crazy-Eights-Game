@@ -14,3 +14,7 @@ The Jacks, Twos, and Queen of Spades are special cards. If a player plays a Jack
 The first player to discard of all their cards first, wins!
 
 If the user decides to play the game more than once, then a point system will be utilized to determine an ultimate winner once the user decides to stop playing. At the end of each game, based on the remaining cards in the loser’s hand, points will be awarded to the winner. 10 points are given for each face card such as the King or Queen, the face value number of points for the number cards (e.g. 5 points for a 5 of Diamonds), 1 point for an Ace, and 50 points for an 8.
+
+**Gameplay Instructions:**
+
+In order to play this game, download all of the files in this repository (excluding this one), and then run the CrazyEights.java file through either an IDE such as Eclipse, or a Java code compiler. If you're having any issues, you could also play the game via the online IDE Repl.it 
