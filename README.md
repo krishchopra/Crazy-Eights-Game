@@ -1,5 +1,5 @@
 # Crazy Eights
-Java implementation of *Crazy Eights* (card game)
+Java console-based implementation of *Crazy Eights* (card game)
 
 **Game Rules Description:**
 
