@@ -513,7 +513,7 @@ public class CrazyEights {
 		
 	 	// welcomes user to the game, introduces them to the format of the cards 
 	 	System.out.println("Welcome to Crazy Eights!");
-	 	System.out.println("**Each card will be written in (and should be entered in) abbreviated form. For instance, 3 of Diamonds will be expressed as 3D, 10 of Spades as 10D, Queen of Clubs as QC, etc.**");
+	 	System.out.println("**Each card will be written in (and should be entered in) abbreviated form. For instance, 3 of Diamonds will be expressed as 3D, 10 of Spades as 10S, Queen of Clubs as QC, etc.**");
 	 	
 	 	while (programOver == false) {
 	 		
