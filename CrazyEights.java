@@ -6,7 +6,7 @@ import java.io.PrintWriter;
 
 /**
  * Last Updated: July 21, 2021
- * Name: Krish Chopra
+ * Author: Krish Chopra
  * Description: Java implementation of Crazy Eights card game
  */
 
